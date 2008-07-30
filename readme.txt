@@ -1,12 +1,12 @@
 === Meyshan 6 in 1 Wordpress Plugin with Image Support===
 Contributors	: P  Dayaparan
-Plugin Name	: Meyshan 6 in 1
+Plugin Name	: Meyshan 6 in 1 Image Support
 Plugin URL	: http://www.spicyexpress.net/index.php/2007/03/01/meyshan-6-in-1-wordpress-plugin/
 Donate link	: http://www.spicyexpress.net/
 Tags		: 
 Requires at least	: 2.0.2
 Tested up to	: 2.1
-Stable tag		: 4.3
+Stable tag		: 1.0
 Version		: 1.0
 
 Here is a short description of the plugin.  This should be no more than 150 chars.  No markup here.
